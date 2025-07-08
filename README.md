@@ -1,1 +1,1 @@
-# caht-bot-AI-Assistance
+# chat-bot-AI-Assistance
